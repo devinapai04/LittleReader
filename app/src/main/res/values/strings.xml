@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LITTLE READERS</string>
+    <string name="welcome">Welcome</string>
+    <string name="icon_for_listening_to_book">Icon for listening to book</string>
+    <string name="icon_for_reading_the_book_yourself">Icon for reading the book yourself</string>
+    <string name="open_book_with_animations">Open book with animations</string>
+    <string name="start_reading">START READING</string>
+    <string name="previous_page">PREVIOUS PAGE</string>
+    <string name="next_page">NEXT PAGE</string>
+    <string name="the_lion_who_wouldn_t_try">The Lion Who Wouldn\'t Try</string>
+    <string name="home">Home</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_congratulatorypage">Congratulatorypage</string>
+    <string name="title_activity_book">Book</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="let_s_start_reading">Let\'s Start Reading</string>
+    <string name="welcome_to_little_readers">Welcome to Little Readers</string>
+</resources>
